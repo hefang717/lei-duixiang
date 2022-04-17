@@ -3,7 +3,7 @@
 using namespace std;
 #include"point.h"
 
-class Circle {	//设置圆类
+class Circle {	//设置圆类。。
 
 public:
 	void setR(int r);	//设置半径r
